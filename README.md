@@ -1,3 +1,3 @@
-# Scenario 1
+# Partial deployment
 
-Three hosting services, CPUs add up to 2.
+Two services deploy successfully, one service fails deployment.
