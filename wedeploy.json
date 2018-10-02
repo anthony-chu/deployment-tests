@@ -1,3 +1,4 @@
 {
-	"id": "ui"
+	"id": "ui",
+	"customDomains": ["test.com"]
 }
