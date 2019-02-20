@@ -1,5 +1,6 @@
 {
 	"id": "alpine",
 	"cpu": 0.5,
-	"memory": 216
+	"memory": 216,
+	"public": false
 }
