@@ -1,2 +1,2 @@
-# 2-services
-alpine, hosting
+# private-service
+alpine: private, hosting: public
