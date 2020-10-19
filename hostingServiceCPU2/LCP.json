@@ -1,5 +1,5 @@
 {
-  "id": "hosting@",
+  "id": "hosting2",
   "cpu": 0.4,
-  "dependencies": ["hosting3"]
+  "dependencies": ["hosting"]
 }
